@@ -7,5 +7,5 @@ Hurray!
 
 Hi Humans!
 
-Yan here. I want to learn coding. I am a theoretical scientist. I like basketball.
+Yan here. I want to learn coding. I like basketball.
 I believe nothing is more practical than a good theory.
